@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28528deb-8cf2-4c1e-83a6-883ba5b9838b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../avaliacao/avaliacao/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../avaliacao/avaliacao/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pagamentos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pagamentos/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pedidos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pedidos/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="28528deb-8cf2-4c1e-83a6-883ba5b9838b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +17,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documentos/Alura/formações/formacao-java-microsservico-spring-rabbitmq/curso-microsserviços-com-rabbitmq/rabbit",
+    "last_opened_file_path": "D:/Documentos/Alura/formações/formacao-java-microsservico-spring-rabbitmq/curso-microsserviços-com-rabbitmq",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682343603545</updated>
       <workItem from="1682343604533" duration="20000" />
+      <workItem from="1682344469591" duration="73000" />
     </task>
     <servers />
   </component>
