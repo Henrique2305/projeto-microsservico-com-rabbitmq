@@ -7,7 +7,7 @@
 Esse projeto teve como objetivo, o estudo de microsserviços com Java,
 utilizando o Spring boot e o RabbitMQ.
 
-## ✔️ Tecnologias utilizadas
+## 🛠 Tecnologias
 
 - ``Java``
 - ``Spring Boot``
