@@ -14,6 +14,7 @@ utilizando o Spring boot e o RabbitMQ.
 - ``Spring Cloud``
 - ``MySQL``
 - ``RabbitMQ``
+- ``Maven``
 
 ## Modo de uso
 
